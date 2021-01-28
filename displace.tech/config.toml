@@ -2,7 +2,7 @@
 baseurl = "https://displace.tech/"
 title = "Displace Technologies"
 theme = "displace.tech"
-publishDir = "docs"
+publishDir = "../docs"
 # post excert
 summarylength = "20"
 # google analytics
